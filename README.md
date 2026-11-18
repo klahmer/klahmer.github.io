@@ -1,10 +1,5 @@
 # MediaTawasol
 
-Página web pública del proyecto periodístico de Gaza MediaTawasol. Está construida como una página estática con HTML y CSS, lista para GitHub Pages.
+Página pública en español y árabe del proyecto periodístico de Gaza MediaTawasol. La versión árabe está en `index-ar.html` e incluye lectura de derecha a izquierda.
 
-## Archivos
-
-- `index.html`: página del proyecto.
-- `logo.jpg`: logotipo de MediaTawasol, tomado de su perfil oficial.
-
-El sitio está publicado en https://klahmer.github.io/ desde el repositorio `klahmer/klahmer.github.io`.
+Archivos principales: `index.html`, `index-ar.html` y `logo.jpg`. El sitio se publica en [klahmer.github.io](https://klahmer.github.io/) desde `klahmer/klahmer.github.io`.
