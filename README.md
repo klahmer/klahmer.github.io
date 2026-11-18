@@ -1,7 +1,10 @@
-# Tawasul Media
+# MediaTawasol
 
-Sitio web de Tawasul Media, proyecto periodístico independiente desde Gaza.
+Página web pública del proyecto periodístico de Gaza MediaTawasol. Está construida como una página estática con HTML y CSS, lista para GitHub Pages.
 
-La página principal está en `index.html` y el sitio se publica con GitHub Pages desde este repositorio de usuario: `klahmer.github.io`.
+## Archivos
 
-Para actualizar el sitio, edita `index.html` o sube una versión nueva a la rama `main`. GitHub Pages sirve el contenido desde la raíz del repositorio.
+- `index.html`: página del proyecto.
+- `logo.jpg`: logotipo de MediaTawasol, tomado de su perfil oficial.
+
+El sitio está publicado en https://klahmer.github.io/ desde el repositorio `klahmer/klahmer.github.io`.
